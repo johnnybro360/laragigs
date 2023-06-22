@@ -13,7 +13,7 @@ class Listing
             [
                 'id' => 2,
                 'title' => 'Listing Two',
-                'description' => 'Hello World 1'
+                'description' => 'Hello World 2'
             ]
         ];
     }
